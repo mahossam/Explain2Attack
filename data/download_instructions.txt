@@ -1,0 +1,4 @@
+Please download data and embeddings files from:
+https://1drv.ms/f/s!AsE9IBt36TI3gc4MuTgfBSVYWwkRHQ
+directoy inside the "data" folder
+

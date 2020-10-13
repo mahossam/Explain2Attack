@@ -1,0 +1,131 @@
+Run with command:
+--lstm --dataset imdb --embedding /home/mahmoudm/pb90_scratch/mahmoud/TextFooler-master/data/embeddings/glove.6B/glove.6B.200d.txt --d 100 --batch_size=32 --max_length=256 --save_path classifiers/lstm/imdb_trim_len_256_0
+
+Max seq length found = 256
+Epoch=0 iter=782 lr=0.001000 train_loss=0.376877 test_acc=0.778440
+
+ 29%|█████████████████████████████████████████▍                                                                                                       | 20/70 [01:01<02:32,  3.05s/it]
+
+
+
+
+
+
+Test acc not improved from 0.86764
+
+
+
+
+
+
+
+Test acc not improved from 0.88084
+
+Test acc not improved from 0.88084
+
+
+
+Test acc not improved from 0.882
+
+
+Epoch=20 iter=16422 lr=0.001000 train_loss=0.083502 test_acc=0.883880
+
+ 57%|██████████████████████████████████████████████████████████████████████████████████▊                                                              | 40/70 [17:54<08:40, 17.33s/it]
+
+
+Test acc not improved from 0.88576
+
+
+Test acc not improved from 0.88736
+
+Test acc not improved from 0.88736
+
+Test acc not improved from 0.88736
+
+Test acc not improved from 0.88736
+
+Test acc not improved from 0.88736
+
+Test acc not improved from 0.88736
+
+Test acc not improved from 0.88736
+
+
+Test acc not improved from 0.88772
+
+Test acc not improved from 0.88772
+
+Test acc not improved from 0.88772
+
+Test acc not improved from 0.88772
+
+Test acc not improved from 0.88772
+
+Test acc not improved from 0.88772
+
+Test acc not improved from 0.88772
+
+Epoch=40 iter=32062 lr=0.001000 train_loss=0.025024 test_acc=0.888360
+
+ 86%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                    | 60/70 [29:29<03:45, 22.57s/it]
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Epoch=60 iter=47702 lr=0.001000 train_loss=0.011566 test_acc=0.887920
+Test acc not improved from 0.88836
+
+80it [40:53, 26.06s/it]
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+Test acc not improved from 0.88836
+
+test_acc: 0.888360
