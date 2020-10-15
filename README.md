@@ -1,5 +1,5 @@
 # Transfer2Attack
-
+Implementation for the paper: ["Transfer2Attack: Text Adversarial Attack with Cross-Domain Interpretability"](https://arxiv.org/abs/2010.06812), In 25th International Conference on Pattern Recognition, (ICPR 2020).
 
 ## Prerequisites:
 * Pytorch >= 0.4
@@ -35,3 +35,13 @@ python attack_classification.py --l2x_train_data_size 25000 --l2x_train_data_pat
 ```
 
 This code is based on the source code for the paper: [Jin, Di, et al. "Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment." arXiv preprint arXiv:1907.11932 (2019)](https://github.com/jind11/TextFooler).
+
+To cite this work, please use
+```
+@misc{hossam2020transfer2attack,
+      title={Transfer2Attack: Text Adversarial Attack with Cross-Domain Interpretability}, 
+      author={Mahmoud Hossam and Trung Le and He Zhao and Dinh Phung},
+      year={2020},
+      Booktitle={25th International Conference on Pattern Recognition, (ICPR)}
+}
+```
