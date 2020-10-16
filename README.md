@@ -1,5 +1,5 @@
 # Transfer2Attack
-Implementation for the paper: ["Transfer2Attack: Text Adversarial Attacks via Cross-Domain Interpretability"](https://arxiv.org/abs/2010.06812), In 25th International Conference on Pattern Recognition, (ICPR 2020).
+Implementation for the paper: ["Transfer2Attack: Text Adversarial Attacks via Cross-Domain Interpretability"](https://arxiv.org/abs/2010.06812), In 25th International Conference on Pattern Recognition (ICPR 2020).
 
 ## Prerequisites:
 * Pytorch >= 0.4
