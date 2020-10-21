@@ -1,5 +1,5 @@
-# Transfer2Attack
-Implementation for the paper: ["Transfer2Attack: Text Adversarial Attacks via Cross-Domain Interpretability"](https://arxiv.org/abs/2010.06812), In 25th International Conference on Pattern Recognition (ICPR 2020).
+# Explain2Attack
+Implementation for the paper: ["Explain2Attack: Text Adversarial Attacks via Cross-Domain Interpretability"](https://arxiv.org/abs/2010.06812), In 25th International Conference on Pattern Recognition (ICPR 2020).
 
 ## Prerequisites:
 * Pytorch >= 0.4
@@ -38,8 +38,8 @@ This code is based on the source code for the paper: [Jin, Di, et al. "Is BERT R
 
 To cite this work, please use
 ```
-@misc{hossam2020transfer2attack,
-      title={{Transfer2Attack: Text Adversarial Attacks via Cross-Domain Interpretability}}, 
+@misc{hossam2020explain2attack,
+      title={{Explain2Attack: Text Adversarial Attacks via Cross-Domain Interpretability}}, 
       author={Mahmoud Hossam and Trung Le and He Zhao and Dinh Phung},
       year={2020},
       Booktitle={25th International Conference on Pattern Recognition, (ICPR)}
